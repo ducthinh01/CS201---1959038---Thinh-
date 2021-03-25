@@ -1,0 +1,65 @@
+h1, h2, h3, nav li {
+  font-family: 'Kiwi Maru', serif;
+
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* === transform-section === */
+#transform-section .navbar {
+}
+
+/* === banner-section === */
+#banner-section .carousel-inner .active {
+  height: 50vh;
+}
+.saleoff {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 50px;
+}
+
+/* === products-section === */
+.products-section {
+  margin-top: 50px;
+}
+
+.products {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* === advertisement-section === */
+#advertisement-section {
+  margin-top: 50px;
+} 
+
+.advertisement {
+  margin: 0 45px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: #01bbd4;
+  color: #fff;
+}
+
+/* === posts === */
+#posts-section {
+  margin-top: 50px;
+}
+
+.posts {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* === manufacturers === */
+#manufacturers {
+  margin-top: 50px;
+}
+
+/* === footer === */
+#footer-section {
+  background-color: #d6d2d2;
+}
+
+h3 {
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
